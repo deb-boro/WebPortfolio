@@ -111,7 +111,6 @@ header nav ul li a {
   display: flex;
   flex-wrap: wrap;
   align-items: top;
-  justify-content: space-between;
 }
 
 .portfolio-sections h3 {
@@ -139,22 +138,50 @@ header nav ul li a {
 .projects {
   display: flex;
   flex-wrap: wrap;
-  flex: 2 70%;
   justify-content: space-between;
+  width: 79%;
 }
 .project {
-  flex: 1 0 0;
-  text-align: center;
-  border-style: solid;
-}
-.project img {
-  width: 550px;
+  height: 200px;
+  min-width: 100px;
+  flex: 1;
+  display: flex;
+  /* content styling OPTIONAL*/
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  /* background styling */
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  margin: 10px;
+  border: 5px solid #024e76;
 }
 
-.first img {
+.first {
+  background-image: url(../images/hero-bg.jpeg);
   flex: 1 100%;
 }
+.second {
+  background-image: url(../images/toilet-paper.jpg);
+  flex: 1 45%;
+}
+.third {
+  background-image: url(../images/spinning-top.jpg);
+  flex: 1 45%;
+}
+.forth {
+  background-image: url(../images/wooden-spoons.jpg);
+}
+.fifth {
+  background-image: url(../images/soap.jpg);
+}
 
+.project p {
+  color: #f8f9fa;
+  font-size: 20px;
+  font-weight: bold;
+}
 /* Contact Me Section */
 .contact-info {
   display: flex;
@@ -164,7 +191,6 @@ header nav ul li a {
   padding: 35px 35px;
   text-align: left;
 }
-
 .contact-info li a {
   margin: 0 20px;
   font-weight: lighter;
