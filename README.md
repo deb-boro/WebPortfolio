@@ -23,12 +23,12 @@ Copy and paste below link in any browser:
 
 #### Header, Navigation and hero section
 
-![Header, Navigation and Hero Section](https://github.com/deb-boro/Reimagine-Horiseon/blob/main/assets/images/webpage_screenshot01.png?raw=true)
+![Header, Navigation and Hero Section](https://github.com/deb-boro/WebPortfolio/blob/main/assets/images/Screenshot-webportfolio-header-nav-hero.png?raw=true)
 
-### Sections
+### Sections - About Me and Work
 
-![Sections](https://github.com/deb-boro/Reimagine-Horiseon/blob/main/assets/images/webpage_screenshot02.png?raw=true)
+![Sections - About Me & Work](https://github.com/deb-boro/WebPortfolio/blob/main/assets/images/Screen%20Shot-webportfolio-aboutme-work.png?raw=true)
 
-### Footer
+### Section - Contact Me
 
-![footer](https://github.com/deb-boro/Reimagine-Horiseon/blob/main/assets/images/webpage_screenshot03.png?raw=true)
+![Sections- Contact Me](https://github.com/deb-boro/WebPortfolio/blob/main/assets/images/Screenshot-webportfolio-contactme.png?raw=true)
