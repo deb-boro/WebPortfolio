@@ -27,7 +27,7 @@ Copy and paste below link in any browser:
 
 ### Sections - About Me and Work
 
-![Sections - About Me & Work](https://github.com/deb-boro/WebPortfolio/blob/main/assets/images/Screen%20Shot-webportfolio-aboutme-work.png?raw=true)
+![Sections - About Me & Work](https://github.com/deb-boro/WebPortfolio/blob/main/assets/images/updated_Screenshot.png?raw=true)
 
 ### Section - Contact Me
 
